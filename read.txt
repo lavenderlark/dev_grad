@@ -1,0 +1,12 @@
+Run gradle:
+
+gradle clean
+gradle build
+gradle run
+
+java run:
+
+cd "app/src/main/java"
+javac org/example/*.java
+java org.example.Main
+
